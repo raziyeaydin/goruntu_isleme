@@ -1,0 +1,21 @@
+*** 1 ***
+Özellikleri Bulunan Toplam Nesne Sayısı= 4
+*** 2 ***
+Resmin Ortalama Renk Kodu= 177
+*** 3 ***
+1.Nesnenin Alanı= 39480
+2.Nesnenin Alanı= 14965
+3.Nesnenin Alanı= 20449
+4.Nesnenin Alanı= 25542
+*** 4 ***
+1.Nesnenin Ağırlık Merkezi: X=181 ,Y=121
+2.Nesnenin Ağırlık Merkezi: X=230 ,Y=340
+3.Nesnenin Ağırlık Merkezi: X=512 ,Y=343
+4.Nesnenin Ağırlık Merkezi: X=544 ,Y=130
+*** 5 ***
+1.Nesnenin Çevresi= 802
+2.Nesnenin Çevresi= 496
+3.Nesnenin Çevresi= 568
+4.Nesnenin Çevresi= 510
+*********
+Nesnelerin Özellikleri Grafik Üzerinde Çizilmiştir.
