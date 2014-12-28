@@ -1,4 +1,4 @@
-function Face_Detective()
+function Face_Detection()
  
     path = '..database\images\';
     png_image = dir(strcat(path, '*.png'));
